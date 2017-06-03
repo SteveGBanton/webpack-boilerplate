@@ -12,7 +12,7 @@ Webpack boilerplate with Dev Server, Babel, SASS and other style loaders.
 
 4. Copy everything from local boilerplate to new local repo
 
-5. npm install - Install all modules if necessary.
+5. Edit package.json & npm install
 
 6. Test if working as is
 
